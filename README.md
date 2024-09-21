@@ -1,2 +1,2 @@
 # BLESS_glTF_extensions
-resource managment of glTF extensions
+glTF extensions made by gd-3d
